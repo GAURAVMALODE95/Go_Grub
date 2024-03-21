@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276286431098",
+    "project_id": "go-grub",
+    "storage_bucket": "go-grub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276286431098:android:72231ba7f0e31f4a0a00c3",
+        "android_client_info": {
+          "package_name": "com.example.go_grub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByCM8DVSi4WGIhPHoC2t2BUTT5Z4j5Zgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
